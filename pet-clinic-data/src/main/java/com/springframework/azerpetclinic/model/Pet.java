@@ -1,4 +1,4 @@
-package model;
+package com.springframework.azerpetclinic.model;
 
 import java.time.LocalDate;
 
